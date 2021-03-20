@@ -6,7 +6,6 @@
 
 /**
  *
- * @author alexk
  */
 public class Cauculadora extends javax.swing.JFrame {
 
